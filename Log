@@ -1,0 +1,35 @@
+Username: user
+Password: user12
+
+Access this: 10.5.30.132/acmss
+Download the files: anaconda and summer school
+
+Download Anaconda from web
+Python 2.7 version
+
+Use the command to begin installation
+bash Anaconda2-4.4.0-Linux-x86_64.sh
+Installation complete!
+
+Why Anaconda?
+Brings everything at one place. All packages all libraries
+
+Open jupyter in browser, learn python very useful
+
+ls is not a python construct, in jupyter notebook we are allowed to use terminal command we use ! to run bash command
+
+Regular Expression: use the RE module
+
+match: beginning of the string
+search: anywhere in the string
+this two shall return object
+
+content vs print, print displays data beautifully while content displays the exact content for the text
+
+Task: read each GOT file, get time stamps and write to a single file
+Task: extract dialogues
+
+TIMTOWTDI
+List comphrehension: identify geek
+
+www.cnergres.iitkgp.ac.in/acmss
